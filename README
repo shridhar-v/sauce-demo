@@ -1,1 +1,3 @@
-This project contains a sample Maven project that demonstrates the integration points required to leverage the functionality provided by the Sauce OnDemand CI plugins (for Jenkins, Bamboo and Hudson).
+<a href="https://saucelabs.com/u/fidelistest">
+  <img src="https://saucelabs.com/browser-matrix/fidelistest.svg" alt="Selenium Tests Status" />
+</a>
